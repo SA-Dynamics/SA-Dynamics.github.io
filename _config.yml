@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 欢迎来到这里
+title: 欢迎来到SA-Dynamics空间
 description: >- # this means to ignore newlines until "baseurl:"
   在这里你将看到一些有趣的东西, 希望我们可以愉快地交流创意和想法
 
