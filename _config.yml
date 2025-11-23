@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   在这里你将看到一些有趣的东西, 希望我们可以愉快地交流创意和想法
 
 
-Build settings
+# Build settings
 # theme: minima
 # plugins:
 #   - jekyll-feed
